@@ -23,7 +23,7 @@ public class DataEntryService {
             );
         }
 
-        if (repository.existsByData(data.trim())) {
+        if (repository.existsByDataIgnoreCase(data.trim())) {
 
             return new DataEntry(
                     data,
