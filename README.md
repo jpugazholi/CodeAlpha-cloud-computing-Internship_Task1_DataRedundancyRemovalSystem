@@ -1,5 +1,3 @@
-Aamaaa 😎 Task 1 **Data Redundancy Removal System**-ku தான் README கேட்டிருக்க! இதோ **full professional `README.md`**, author-உம் சேர்த்து. Direct-aa copy-paste பண்ணலாம்.
-
 # Data Redundancy Removal System
 
 A cloud-deployed web application designed to identify duplicate data and classify incoming records as **UNIQUE** or **REDUNDANT**.
