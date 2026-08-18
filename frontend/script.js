@@ -17,7 +17,7 @@ async function checkData() {
     try {
 
         const response = await fetch(
-            `http://localhost:8080/api/data?data=${encodeURIComponent(data)}`,
+            `https://codealpha-cloud-computing-internship.onrender.com/api/data?data=${encodeURIComponent(data)}`,
             {
                 method: "POST"
             }
